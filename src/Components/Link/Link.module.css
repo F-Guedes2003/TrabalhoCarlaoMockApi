@@ -1,0 +1,13 @@
+.link {
+    text-decoration: none;
+    color: rgb(162, 0, 0);
+    margin-left: 2vw;
+}
+
+.link :hover {
+    font-weight: bold;
+}
+
+.active {
+    color: #ffff;
+}

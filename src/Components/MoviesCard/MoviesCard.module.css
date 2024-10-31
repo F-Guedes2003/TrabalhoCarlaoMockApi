@@ -1,0 +1,17 @@
+.card {
+    text-decoration: none;
+    color: white;
+    width: 80vw;
+    border: 1px white solid;
+    border-radius: 15px;
+    padding: 1vh 2vw;
+    margin-bottom: 1vh;
+}
+
+.info {
+    display: flex;
+}
+
+.info p {
+    margin-right: 5vw;
+}
